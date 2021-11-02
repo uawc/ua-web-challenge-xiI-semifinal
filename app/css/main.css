@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'clock';
-	src: url('/font/alarm-clock.ttf.eot');
-	src: url('/font/alarm-clock.ttf.eot?#iefix') format('embedded-opentype'),
-	url('/font/alarm-clock.ttf.woff') format('woff'),
-	url('/font/alarm-clock.ttf.svg#clock') format('svg');
+	src: url('font/alarm-clock.ttf.eot');
+	src: url('font/alarm-clock.ttf.eot?#iefix') format('embedded-opentype'),
+	url('font/alarm-clock.ttf.woff') format('woff'),
+	url('font/alarm-clock.ttf.svg#clock') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

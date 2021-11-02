@@ -1,5 +1,5 @@
-const CAR_HIT_SOUND_FILE_PATH = '/audio/hit.mp3';
-const START_MUSIC_FILE_PATH = '/audio/start-game.mp3';
+const CAR_HIT_SOUND_FILE_PATH = 'audio/hit.mp3';
+const START_MUSIC_FILE_PATH = 'audio/start-game.mp3';
 
 /**
  * Playing music file on start game
