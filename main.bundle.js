@@ -25982,8 +25982,8 @@ exports.default = (0, _redux.createStore)(_reducer2.default, (0, _redux.applyMid
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var CAR_HIT_SOUND_FILE_PATH = '/audio/hit.mp3';
-var START_MUSIC_FILE_PATH = '/audio/start-game.mp3';
+var CAR_HIT_SOUND_FILE_PATH = 'audio/hit.mp3';
+var START_MUSIC_FILE_PATH = 'audio/start-game.mp3';
 
 /**
  * Playing music file on start game
