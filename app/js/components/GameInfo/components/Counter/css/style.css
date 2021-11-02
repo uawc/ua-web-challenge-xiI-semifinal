@@ -1,0 +1,17 @@
+.counter {
+	position: relative;
+	text-align: right;
+}
+
+.counter-bg, .counter-amount {
+	font-family: clock;
+  font-size: 30px;
+	font-weight: bold;
+}
+
+.counter-bg {
+	position: absolute;
+  right: 0;
+  bottom: 0;
+  opacity: .15;
+}

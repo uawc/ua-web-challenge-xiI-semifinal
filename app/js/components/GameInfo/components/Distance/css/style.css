@@ -1,0 +1,38 @@
+.discatnce {
+	height: 61px;
+	position: relative;
+	text-align: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.title {
+    padding-bottom: 15px;
+}
+
+.discatnce-bg, .discatnce-amount {
+	font-family: clock;
+  font-size: 30px;
+	font-weight: bold;
+}
+
+.discatnce-amount {
+	text-align: left;
+}
+
+.discatnce-bg {
+	position: absolute;
+  right: 0;
+  bottom: 0;
+  opacity: .15;
+}
+
+.finish-icon {
+	position: absolute;
+	right: -9px;
+	top: 20px;
+	width: 20px;
+	height: 20px;
+	background: url('/img/finish.png') no-repeat;
+  background-size: cover;
+}

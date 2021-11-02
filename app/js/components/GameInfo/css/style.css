@@ -1,0 +1,21 @@
+.game-info {
+	padding: 15px;
+	width: 107px;
+	height: 447px;
+	position: absolute;
+	right: 127px;
+	top: 95px;
+}
+
+.pause, .game-over {
+	text-align: right;
+	opacity: .15;
+
+	&.active {
+		opacity: 1;
+	}
+}
+
+.pause {
+	padding: 10px 0;
+}
